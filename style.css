@@ -17,10 +17,8 @@ body {
 
 .content {
     width: 1319px;
-    height: 114px;
-    position: absolute;
-    left: 50%;
-    margin-left: -659px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .top {
